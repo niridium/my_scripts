@@ -1,0 +1,5 @@
+Music/
+Notes/
+nixos/
+Pictures/
+.factorio/
