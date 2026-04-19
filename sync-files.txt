@@ -1,5 +1,7 @@
 Music/
 Notes/
-nixos/
+nix-system/
+nix-shells/
+my-scripts/
 Pictures/
 .factorio/
