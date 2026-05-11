@@ -1,4 +1,3 @@
+THIS IS A MESS
 
-## TODO
-- [x] Redesign
-  - [x] backupsys.sh -> sync-server.sh
+I HAVE TO FIX THIS

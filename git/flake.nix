@@ -20,6 +20,7 @@
           let
             my_name = "init-git-repo";
             my_buildInputs = with pkgs; [
+              pre-commit
               git-conventional-commits
               ggshield
             ];

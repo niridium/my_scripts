@@ -3,5 +3,6 @@ Notes/
 nix-system/
 nix-shells/
 my-scripts/
+projects/
 Pictures/
 .factorio/
