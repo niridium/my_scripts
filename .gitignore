@@ -5,3 +5,4 @@ config/archive.conf
 config/backupsys.conf
 config/backupsys_exclude.txt
 config/upsys.conf
+.direnv

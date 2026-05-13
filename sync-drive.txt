@@ -1,4 +1,0 @@
-Backups/
-Games/
-Keepass/
-Varios/
